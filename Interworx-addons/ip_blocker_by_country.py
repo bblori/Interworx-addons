@@ -65,4 +65,3 @@ if os.path.isfile(fajl):
 		meret += 1	
 else:
 	print("Nincs fajl") 
-
